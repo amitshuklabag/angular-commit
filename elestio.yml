@@ -29,3 +29,4 @@ environments:
 webUI:
   - url: "https://[CI_CD_DOMAIN]"
     label: "Website"              
+
