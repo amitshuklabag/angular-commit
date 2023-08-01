@@ -8,6 +8,7 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 <img src="src\images\angular.png" alt="screenshot of the Angular app" width="100%" />
 # Steps to clone this repository and run locally
 
+
 ### Step 1: Clone this repository
 ```
 git clone YOUR_REPOSITORY_URL
