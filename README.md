@@ -7,8 +7,6 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/angular"><img src="src\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 <img src="src\images\angular.png" alt="screenshot of the Angular app" width="100%" />
 # Steps to clone this repository and run locally
-
-
 ### Step 1: Clone this repository
 ```
 git clone YOUR_REPOSITORY_URL
