@@ -9,7 +9,6 @@ Click on the button below to deploy this repository with CI/CD on Elestio:
 # Steps to clone this repository and run locally
 
 ### Step 1: Clone this repository
-
 ```
 git clone YOUR_REPOSITORY_URL
 ```
