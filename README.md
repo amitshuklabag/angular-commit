@@ -3,7 +3,7 @@
 This is a minimal example of a Angular site created using ng new
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
-
+ss
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/angular"><img src="src\images\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 <img src="src\images\angular.png" alt="screenshot of the Angular app" width="100%" />
